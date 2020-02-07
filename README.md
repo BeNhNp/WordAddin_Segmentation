@@ -16,8 +16,9 @@ open a documet like the following:
 we can first segment all the paragraph, the show the statistics data:
 
 ![interface](screens/screen-3.png)
- 
 
 ## TODO
-1. It use a commential binary package for word segmentation, I'll alternate it to Jieba these days.
+
+1. It use a commential binary package for word segmentation, I'll alternate it to other free libraries these days(not available at hand).
+
 2. It is very a toy now, rather simple and rough, I'll make it suit for real work later.
